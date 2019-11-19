@@ -1,1 +1,118 @@
-<mxfile host="www.draw.io" modified="2019-09-27T23:54:15.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.21 Safari/537.36" etag="rmHmYGimJNg3Y7ya_kx7" version="12.0.0" type="github" pages="1"><diagram id="KIfDUf1n7L53kUug-3rC" name="Page-1">7Zpdb6M4FIZ/TaTpxYz4KGl6SSjZRk0zVUg7u1crBxywajAyzqbpr59jYicwUG1mth26KlFE7dff9nNOceyB7aVPf3CUJ7cswnRgGdHTwL4aWJbjjOAphd1eGA2VEHMS7SXzKATkGSvRUOqGRLioZRSMUUHyuhiyLMOhqGmIc7atZ1szWm81RzFuCEGIaFP9RiKRqFE4xlG/xiROdMumoVJSpDMroUhQxLYVyfYHtscZE/tQ+uRhKudOz8u+3OSF1EPHOM7EKQU8dPHtkeVm/JzcXE7jnSf88LOq5R9EN2rAbpHPsbgvMC9Uv8VOT0axJSlFGcTGiUgpiCYE1ywTgcpkQDxMCI1maMc2sl+FQOGjjo0Txskz5Ee6MCRzoZbdGsraCKUeo4yDkLF9W4dCgaxMNcNxAcXu9PjNgzRDhdBdYZSivCCrsnMyS4p4TLIxE4KlKpMe1aTS8sCy1+VH1so2WYQjnVsv477+lIQqTNEK0zH0Ly4L/DCGQnD2iCvVG+XnkKLh0hM6QSmh0mYeMI9QhvQ872fKNFS8rUJESZyBFsLEYEgcqzXGXOCnF+ExD0iCKWOWYsF3kEUVGF0oipUZn+9j26NJ2Npik4o52JdDZYrKDONDzUdSIaBg/QlwrQa4A2c8jQYOBIcozWHY2arIy9Eb/xdp/uAuvGt3AUmfTGt0Bn/nX5fyeT+bNawRVlPULbEOmSKvxaA0IRSvZQ2SDAIuz1WyYLIzRY5CksWzMs/V+VFZqPWV0jYhAgegyz5t4T8AaAzqW9PSRhISRTgrbUgggVYHH5EzkomSCWcMX5gJz/jilKvnQdw8xuErs3NAPYPxIVICi8HGt1ja+Wl0v+z8msgrxK3haYxbb4W43Ya4nyJC3zHlVYQtZ3jWw9sJvI7VMbznL8ILU7EmPMWv6qvH02UHrPe+uSO8L0Yd4+204X2HimLLeHSNiuSNXXTVzd66f/ZuthsOTePEF+E3A3HYBmKAww0nYgfbJYDmdUnsyXsf5NlGx+RdtLrABNZwvklXsPF885fUHsX3gaLT9U5p9C8o1l85jf5l8WPxOep6M3TZxudyyyYoFIz7mZzPX98O9Th/KJwto+vNj26szvOMhY9sI/wsukIC34vwZKCv3KW/nN76r7c76rH8/VjaXW+FzOZhVoOVCqb/zen2fvjDAz/segdmth6CuWGIi2KCCODtsQ2M8FTGp/Me4I8E8KjrfZvZcsTV9NjyLsIcpfhdnHq1nW/1BHdEsK09YHcEN8+5vK/zYLlwS2dqyN8hbv6OVuxL9V5N+SvE3WJ66y7+gtCNL5/e7D5Y+gtfpn06XmYw3MA768H6zWDZJ+6xzq2fBguix0tfZVrl5pztfwc=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-19T03:01:54.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.36 Safari/537.36" etag="KURKO7nDMn2INEPC8JEN" version="12.2.6" type="github" pages="1">
+  <diagram id="KIfDUf1n7L53kUug-3rC" name="Page-1">
+    <mxGraphModel dx="558" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-1" value="AspNetUsers" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="870" y="4" width="310" height="396" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-2" value="[Id]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;NVARCHAR (128) NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ca7Wkop1gzhK9IgyCtEc-1" vertex="1">
+          <mxGeometry y="26" width="310" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-3" value="[Email]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NVARCHAR (256) NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ca7Wkop1gzhK9IgyCtEc-1" vertex="1">
+          <mxGeometry y="52" width="310" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-4" value="[EmailConfirmed]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;BIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ca7Wkop1gzhK9IgyCtEc-1" vertex="1">
+          <mxGeometry y="78" width="310" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-5" value="[PasswordHash]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;NVARCHAR (MAX) NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ca7Wkop1gzhK9IgyCtEc-1" vertex="1">
+          <mxGeometry y="104" width="310" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-6" value="[SecurityStamp]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NVARCHAR (MAX) NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ca7Wkop1gzhK9IgyCtEc-1" vertex="1">
+          <mxGeometry y="130" width="310" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-7" value="[PhoneNumber]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NVARCHAR (MAX) NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ca7Wkop1gzhK9IgyCtEc-1" vertex="1">
+          <mxGeometry y="156" width="310" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-8" value="[PhoneNumberConfirmed] BIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ca7Wkop1gzhK9IgyCtEc-1" vertex="1">
+          <mxGeometry y="182" width="310" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-9" value="[TwoFactorEnabled]&amp;nbsp; &amp;nbsp; &amp;nbsp;BIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ca7Wkop1gzhK9IgyCtEc-1" vertex="1">
+          <mxGeometry y="208" width="310" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-10" value="[LockoutEndDateUtc]&amp;nbsp; &amp;nbsp; DATETIME&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ca7Wkop1gzhK9IgyCtEc-1" vertex="1">
+          <mxGeometry y="234" width="310" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-11" value="&amp;nbsp;[LockoutEnabled]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;BIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ca7Wkop1gzhK9IgyCtEc-1" vertex="1">
+          <mxGeometry y="260" width="310" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-12" value="[AccessFailedCount]&amp;nbsp; &amp;nbsp; INT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ca7Wkop1gzhK9IgyCtEc-1" vertex="1">
+          <mxGeometry y="286" width="310" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-13" value="&amp;nbsp;[UserName]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;NVARCHAR (256) NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ca7Wkop1gzhK9IgyCtEc-1" vertex="1">
+          <mxGeometry y="312" width="310" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ca7Wkop1gzhK9IgyCtEc-14" value="CONSTRAINT [PK_dbo.AspNetUsers] PRIMARY KEY CLUSTERED ([Id] ASC)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Ca7Wkop1gzhK9IgyCtEc-1" vertex="1">
+          <mxGeometry y="338" width="310" height="42" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-1" value="Drivers" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="4" width="350" height="216" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-2" value="[Id]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;INT IDENTITY (1,1) NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-1">
+          <mxGeometry y="26" width="350" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-3" value="[UserId]&amp;nbsp; NVARCHAR (128) NOT NULL FK AspNetUsers" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-1">
+          <mxGeometry y="52" width="350" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-4" value="[FleetAgreementID]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;INT NOT NULL FK FleetAgreements" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-1">
+          <mxGeometry y="78" width="350" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-9" value="[DriversLicenseNbr]&amp;nbsp; &amp;nbsp; &amp;nbsp;NVARCHAR (128)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-1">
+          <mxGeometry y="104" width="350" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-17" value="[PassedBackgroundCheck]&amp;nbsp; &amp;nbsp; &amp;nbsp;BIT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-1">
+          <mxGeometry y="130" width="350" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-14" value="CONSTRAINT [PK_dbo.Drivers] PRIMARY KEY CLUSTERED ([Id] ASC)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-1">
+          <mxGeometry y="156" width="350" height="42" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-18" value="Customers" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="240" width="350" height="216" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-19" value="[Id]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;INT IDENTITY (1,1) NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-18">
+          <mxGeometry y="26" width="350" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-20" value="[UserId]&amp;nbsp; NVARCHAR (128) NOT NULL FK AspNetUsers" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-18">
+          <mxGeometry y="52" width="350" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-21" value="[PayPalUserID]&amp;nbsp; &amp;nbsp; &amp;nbsp; NVARCHAR(128) NOT NULL&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-18">
+          <mxGeometry y="78" width="350" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-22" value="[DriversLicenseNbr]&amp;nbsp; &amp;nbsp; &amp;nbsp;NVARCHAR (128)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-18">
+          <mxGeometry y="104" width="350" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-24" value="CONSTRAINT [PK_dbo.Customers] PRIMARY KEY CLUSTERED ([Id] ASC)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-18">
+          <mxGeometry y="130" width="350" height="42" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-25" value="PUPs" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="870" y="456" width="330" height="302" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-26" value="[Id]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;INT IDENTITY (1,1) NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-25">
+          <mxGeometry y="26" width="330" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-27" value="[CustomerId]&amp;nbsp; NVARCHAR (128) NOT NULL FK AspNetUsers" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-25">
+          <mxGeometry y="52" width="330" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-28" value="[StatusID]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;INT NOT NULL FK PUP_status" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-25">
+          <mxGeometry y="90" width="330" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-32" value="[GreenBagCount]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;INT NOT NULL&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-25">
+          <mxGeometry y="116" width="330" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-34" value="[WhiteBagCount]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;INT NOT NULL&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-25">
+          <mxGeometry y="142" width="330" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-33" value="[Location_X]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DECIMAL NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-25">
+          <mxGeometry y="168" width="330" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-35" value="[Location_Y]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DECIMAL NOT NULL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-25">
+          <mxGeometry y="194" width="330" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="LeqrXOZEjT0UXgj0MQsK-36" value="CONSTRAINT [PK_dbo.PUPs] PRIMARY KEY CLUSTERED ([Id] ASC)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LeqrXOZEjT0UXgj0MQsK-25">
+          <mxGeometry y="220" width="330" height="42" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
