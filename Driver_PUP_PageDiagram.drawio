@@ -1,1 +1,43 @@
-<mxfile host="www.draw.io" modified="2019-12-03T04:45:03.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.56 Safari/537.36" version="12.3.5" etag="w4gwM_xXugKyU7lXGSw2" type="github"><diagram id="p2B72TXhUrV9NWJJVPbK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-03T05:01:32.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.56 Safari/537.36" etag="exkrHRpZ9NrvPHNZPkQm" version="12.3.5" type="github" pages="1">
+  <diagram id="p2B72TXhUrV9NWJJVPbK" name="Page-1">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="q1qYuP3hOzLmE5pLOc5J-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="260" height="460" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1qYuP3hOzLmE5pLOc5J-2" value="Green Bags __" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1qYuP3hOzLmE5pLOc5J-3" value="White Bags __" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="177" y="88" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1qYuP3hOzLmE5pLOc5J-4" value="PUP Notes" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#55BFE0;align=center;strokeColor=#55BFE0;fontColor=#ffffff;fontSize=12;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="70" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1qYuP3hOzLmE5pLOc5J-55" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="118" height="105" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1qYuP3hOzLmE5pLOc5J-57" value="Confirm Pick-Up&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; white-space: nowrap&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Green%20Bags%20__%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%3Bautosize%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22124%22%20y%3D%2271%22%20width%3D%22100%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#55BFE0;align=center;strokeColor=#55BFE0;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1qYuP3hOzLmE5pLOc5J-59" value="Confirm Drop" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#55BFE0;align=center;strokeColor=#55BFE0;fontColor=#ffffff;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1qYuP3hOzLmE5pLOc5J-60" value="Panel content" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;align=center;rSize=5;strokeColor=#3D8BCD;fontColor=#f0f0f0;spacingTop=30;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="160" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1qYuP3hOzLmE5pLOc5J-61" value="Driver Notes" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#3D8BCD;fontColor=#ffffff;fontSize=14;fontStyle=1;align=left;spacingLeft=10;whiteSpace=wrap;resizeWidth=1;" vertex="1" parent="q1qYuP3hOzLmE5pLOc5J-60">
+          <mxGeometry width="160" height="30" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1qYuP3hOzLmE5pLOc5J-62" value="Refuse PUP" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#DB524C;align=center;strokeColor=#DB524C;fontColor=#ffffff;fontSize=12;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="50" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1qYuP3hOzLmE5pLOc5J-66" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.mapNavigator;fillColor2=#99ddff;strokeColor2=none;strokeColor3=#ffffff;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="20" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
